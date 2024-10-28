@@ -1,6 +1,8 @@
 ## Hi there 👋 
 
-I'm a self-learner passionate about languages (both human and programming ones) and user-centered design. I specialize in spatial and geospatial semantics, working to improve spatial experience, navigation, and user insights to how we move through and understand space.
+I'm a self-learner passionate about languages (both human and programming ones) and user-centered design. 
+
+Specialize in spatial and geospatial semantics, working to improve spatial experience, navigation, and user insights to how we move through and understand space.
 
 - 🔭 Currently studying Human-Computer Interaction, Graphics and Design
 
